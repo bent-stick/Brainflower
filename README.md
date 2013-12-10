@@ -1,8 +1,10 @@
-TO DO:
+<p>TO DO:</p>
 
-Flesh out README...
-Add face tracking / silhouette for better visuals
-Clean up code
+<p>
+Flesh out README...<br />
+Add face tracking / silhouette for better visuals<br />
+Clean up code<br />
 Document code
+</p>
 
 MAGIC!
